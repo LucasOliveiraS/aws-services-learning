@@ -21,7 +21,7 @@
 
 Esse repositório tem como objetivo concentrar materiais de estudo sobre a plataforma AWS.
 
-Caso você não tenha conhecimento sobre a cloud AWS, na página de treinamentos, você pode realizar o curso **AWS CLoud Practitioner Essentials**, para obter uma visão geral da plataforma.
+Caso você não tenha conhecimento sobre a cloud AWS, na página de treinamentos, você pode realizar o curso **AWS Cloud Practitioner Essentials**, para obter uma visão geral da plataforma.
 
 ## Workshops
 
