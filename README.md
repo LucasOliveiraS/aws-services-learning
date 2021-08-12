@@ -1,5 +1,5 @@
 <details>
-<summary>translations</summary>
+<summary>traduções</summary>
 
 - [Inglês](translations/README-en.md)
 
