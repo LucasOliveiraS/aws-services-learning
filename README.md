@@ -41,6 +41,8 @@ Caso você não tenha conhecimento sobre a cloud AWS, na página de treinamentos
 
   - [AWS Config](/workshops/aws-management-and-governance-tools/config.md)
 
+  - [Operations](/workshops/aws-management-and-governance-tools/operations.md)
+
 - ### Well-Architected Labs
 
   - #### Operational Excellence
