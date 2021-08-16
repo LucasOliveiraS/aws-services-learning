@@ -49,7 +49,7 @@ Caso você não tenha conhecimento sobre a cloud AWS, na página de treinamentos
 
     - [Inventory and Patch Management](https://www.wellarchitectedlabs.com/operational-excellence/100_labs/100_inventory_patch_management/)
 
-    - [Dependency Monitoring](https://www.wellarchitectedlabs.com/operational-excellence/100_labs/100_dependency_monitoring/)
+    - [Dependency Monitoring](/workshops/well-architected-labs/operational-excellence/dependency-monitoring.md)
 
 ## Trilhas
 
